@@ -1,6 +1,6 @@
-# marked-toc [![NPM version](https://badge.fury.io/js/marked-toc.png)](http://badge.fury.io/js/marked-toc)
+# DEPRECATED!
 
-> Generate a TOC (table of contents) for markdown files
+> Use [markdown-toc](https://github.com/jonschlinkert/markdown-toc) instead!
 
 _(example)_
 <!-- toc -->
